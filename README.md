@@ -4,7 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Dev and Graphic Design
 ---------------------------------
 
-👋 Hi, I’m Toom — a 2nd-year Computer Engineering student at Khon Kaen University. 🚀 Passionate about Web Development and building scalable backend systems.
+👋 Hi, I’m Toom — a passionate Full Stack Developer from Khon Kaen University.
+🚀 I specialize in crafting seamless web experiences that blend scalable backend systems with intuitive, design-driven interfaces.
+
+🎯 With a strong focus on both engineering and aesthetics, I love building products that look great and perform even better.
+
+🏆 Achievements:
+
+🥇 Winner — GE Showcase
+
+🥈 1st Runner-up — TBL Hackathon
+
+🥈 1st Runner-up — EGAT Hackathon (EGAT Thailand)
+
+💡 Out-of-Task Award — ITMX Hackathon
+
+🔹 Top 50 Finalist — AIS Jump Thailand Hackathon
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Kritsada.ba@Kkumail.com](mailto:Kritsada.ba@Kkumail.com)
