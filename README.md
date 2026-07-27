@@ -5,8 +5,7 @@ Full Stack Dev and Graphic Design
 ---------------------------------
 
 👋 Hi, I'm Toom from Khon Kaen University.
-💻 Computer Engineering student interested in Full Stack Development, backend systems, databases, and web technologies. I enjoy learning by building real-world projects
-🎯 With a strong focus on both engineering and aesthetics, I love building products that look great and perform even better.
+💻 Just anti vibe coder 
 
 🏆 Achievements:
 
