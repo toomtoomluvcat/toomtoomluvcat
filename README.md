@@ -13,7 +13,11 @@ Full Stack Dev and Graphic Design
 
 🥇 Winner — GE Showcase
 
-🥈 1st Runner-up — TBL Hackathon
+🥇 Winner — MSU Informatic Hackathon
+
+🥈 1st Runner-up — Disruptive Doing Hackathon 2026 (TBL)
+
+🥈 1st Runner-up — Disruptive Thinking Hackathon 2025 (TBL)
 
 🥈 1st Runner-up — EGAT Hackathon (EGAT Thailand)
 
