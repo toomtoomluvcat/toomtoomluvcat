@@ -9,21 +9,21 @@ Full Stack Dev and Graphic Design
 
 🏆 Achievements:
 
-🏆 Championship — HackaTech
+🏆 Championship — HackaTech 2026
 
-🥇 Winner — GE Showcase
+🥇 Winner — GE Showcase 2025
 
-🥇 Winner — MSU Informatic Hackathon
+🥇 Winner — MSU Informatic Hackathon 2026
 
-🥈 1st Runner-up — Disruptive Doing Hackathon 2026 (TBL)
+🥈 1st Runner-up — Disruptive Doing Hackathon (TBL) 2026
 
-🥈 1st Runner-up — Disruptive Thinking Hackathon 2025 (TBL)
+🥈 1st Runner-up — Disruptive Thinking Hackathon (TBL) 2025 
 
-🥈 1st Runner-up — EGAT Hackathon (EGAT Thailand)
+🥈 1st Runner-up — EGAT Hackathon (EGAT Thailand) 2024
 
-💡 Out-of-Task Award — ITMX Hackathon
+💡 Out-of-Task Award — ITMX Hackathon 2025
 
-🔹 Top 50 Finalist — AIS Jump Thailand Hackathon
+🔹 Top 50 Finalist — AIS Jump Thailand Hackathon 2025
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Kritsada.ba@Kkumail.com](mailto:Kritsada.ba@Kkumail.com)
