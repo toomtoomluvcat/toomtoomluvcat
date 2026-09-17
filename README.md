@@ -5,7 +5,7 @@ Full Stack Dev and Graphic Design
 ---------------------------------
 
 👋 Hi, I'm Toom from Khon Kaen University.
-💻 Just anti vibe coder 
+💻 
 
 🏆 Achievements:
 
